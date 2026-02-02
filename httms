@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ksenia Kunitsuna - Portfolio</title>
+<style>
+    /* Основные стили и цвета */
+    body {
+        font-family: 'Arial', sans-serif;
+        margin: 0;
+        padding: 0;
+        background: linear-gradient(to bottom right, #ffe6f0, #ffccf2);
+        color: #333;
+    }
+    header {
+        text-align: center;
+        padding: 50px 20px;
+        background: rgba(255, 192, 203, 0.8);
+    }
+    header h1 {
+        font-size: 3em;
+        margin: 0;
+        color: #fff;
+        text-shadow: 2px 2px #ff99cc;
+    }
+    header p {
+        font-size: 1.2em;
+        color: #fff;
+    }
+    section {
+        max-width: 900px;
+        margin: 40px auto;
+        padding: 20px;
+        background: rgba(255, 240, 245, 0.8);
+        border-radius: 20px;
+        box-shadow: 0 8px 20px rgba(255, 182, 193, 0.5);
+    }
+    h2 {
+        color: #ff66b2;
+        margin-bottom: 15px;
+    }
+    ul {
+        list-style: none;
+        padding: 0;
+    }
+    li {
+        background: #ffe6f0;
+        margin-bottom: 10px;
+        padding: 10px 15px;
+        border-radius: 10px;
+        transition: transform 0.3s;
+    }
+    li:hover {
+        transform: scale(1.05);
+        background: #ffb3d9;
+    }
+    a {
+        color: #ff3399;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    footer {
+        text-align: center;
+        padding: 20px;
+        background: rgba(255, 192, 203, 0.8);
+        color: #fff;
+        font-size: 0.9em;
+    }
+</style>
+</head>
+<body>
+
+<header>
+    <h1>ksenia kunitsuna</h1>
+    <p>future student | it & business projects | music & pasta lover</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>Hello! I’m Ksenia, passionate about technology, business, and creative projects. I also love music and pasta, which fuel my inspiration every day.</p>
+</section>
+
+<section>
+    <h2>Projects</h2>
+    <ul>
+        <li>AI-based educational MVP: Identified challenges in learning, designed a digital solution, tested usability.</li>
+        <li>Women-only fitness space project: Conducted surveys, analyzed user needs, created website prototype.</li>
+        <li>Creative music & art blog: Curated content and shared multimedia experiences online.</li>
+        <li>School advanced English project: Developed interactive lessons for peers, improving engagement.</li>
+        <li>Portfolio website design: Built personal portfolio using HTML/CSS showcasing projects.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:kseniakunitsuna@gmail.com">kseniakunitsuna@gmail.com</a></p>
+    <p>Phone: +7 996 979 88 83</p>
+    <p>GitHub / Portfolio: <a href="https://github.com/yourusername" target="_blank">https://github.com/yourusername</a></p>
+</section>
+
+<footer>
+    © 2026 Ksenia Kunitsuna | Designed to impress admissions
+</footer>
+
+</body>
+</html>
